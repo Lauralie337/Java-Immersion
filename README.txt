@@ -1,0 +1,1 @@
+This is the main branch of my git repository for the Java Immersion course. I will be adding branches as needed for individual homework assignments. 
