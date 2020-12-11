@@ -1,1 +1,1 @@
-TEST EST ST T
+Converted Students Angular project into a list of trip destinations. I will push another version to a template repository that has generic identifiers instead of variants of 'student'.
