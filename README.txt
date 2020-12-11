@@ -1,1 +1,0 @@
-Converted Students Angular project into a list of trip destinations with fields for the 'ranking' of the trip, destination 'name', assumed 'cost (USD)' of the trip, as well as the main purpose or 'attraction' of the trip. I will push another version to a template repository that has generic identifiers instead of variants of 'student' and more neutral css styling.
