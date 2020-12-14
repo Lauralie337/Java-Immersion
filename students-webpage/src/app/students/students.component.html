@@ -1,0 +1,28 @@
+<h2>Places to Travel</h2>
+<ul class="students">
+    <li *ngFor="let student of students" 
+    [class.selected]="student === selectedStudent"
+    (click)="onSelect(student)">
+        <span class="badge">{{student.id}}</span>
+        {{student.name}} | 
+        <i>{{student.major}}</i>
+    </li>
+</ul>
+
+<app-student-detail [student]="selectedStudent"></app-student-detail>
+
+
+<!-- <div *ngIf="selectedStudent">
+
+  <h2>{{selectedStudent.name}} Details</h2>
+  <div><span>rank: </span>{{selectedStudent.id}}</div>
+  <div><label>cost (USD):  
+      <input [(ngModel)]="selectedStudent.cost" placeholder="cost"/>
+    </label>
+  <div>
+    <label>attraction:
+      <input [(ngModel)]="selectedStudent.major" placeholder="attraction"/>
+    </label>
+  </div>
+
+</div> -->

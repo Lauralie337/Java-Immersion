@@ -1,0 +1,20 @@
+<div *ngIf="student">
+
+    <h2>{{student.name | uppercase}} Details</h2>
+    <div><span>Rank: </span>{{student.id}}</div>
+    
+    <div>
+      <label>Location:
+        <input [(ngModel)]="student.name" placeholder="name"/>
+      </label>
+    </div>
+    <div><label>Cost (USD):  
+        <input [(ngModel)]="student.cost" placeholder="cost"/>
+      </label>
+    <div>
+      <label>Attraction:
+        <input [(ngModel)]="student.major" placeholder="attraction"/>
+      </label>
+    </div>
+  
+</div>
