@@ -1,1 +1,1 @@
-This is the main branch of my git repository for the Java Immersion course. I will be adding branches (sorted by date) as needed for individual homework assignments. 
+This is the react router app that we worked on with Erik during friday's (12-18-20) lab with the requested bootstrap functionality (specifically, a nav bar) and minor css changes to the bootstrap element.
