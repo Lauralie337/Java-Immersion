@@ -1,1 +1,1 @@
-This is the main branch of my git repository for the Java Immersion course. I will be adding branches (sorted by date) as needed for individual homework assignments. 
+This branch is for our 12-17-2020 Tic-Tac-Toe React App homework.
