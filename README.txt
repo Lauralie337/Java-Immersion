@@ -1,1 +1,1 @@
-This is the main branch of my git repository for the Java Immersion course. I will be adding branches (sorted by date) as needed for individual homework assignments. 
+This is a homework branch for 12/21/2020 homework on creating a react app without create-react-app.
